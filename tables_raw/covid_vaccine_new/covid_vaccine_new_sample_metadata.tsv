@@ -1,0 +1,1683 @@
+sample_id	key	value
+3	date_hic_received	########
+3	date_sample_received	########
+4	date_hic_received	########
+4	date_sample_received	########
+5	date_hic_received	########
+5	date_sample_received	########
+6	date_hic_received	########
+6	date_sample_received	########
+7	date_hic_received	########
+7	date_sample_received	########
+8	date_hic_received	########
+8	date_sample_received	########
+9	date_hic_received	########
+9	date_sample_received	########
+10	date_hic_received	########
+10	date_sample_received	########
+11	date_hic_received	########
+11	date_sample_received	########
+12	date_hic_received	########
+12	date_sample_received	########
+13	date_hic_received	########
+13	date_sample_received	########
+14	date_hic_received	########
+14	date_sample_received	########
+15	date_hic_received	########
+15	date_sample_received	########
+16	date_hic_received	########
+16	date_sample_received	########
+17	date_hic_received	########
+17	date_sample_received	########
+18	date_hic_received	########
+18	date_sample_received	########
+19	date_hic_received	########
+19	date_sample_received	########
+20	date_hic_received	########
+20	date_sample_received	########
+21	date_hic_received	########
+21	date_sample_received	########
+22	date_hic_received	########
+22	date_sample_received	########
+23	date_hic_received	########
+23	date_sample_received	########
+24	date_hic_received	########
+24	date_sample_received	########
+25	date_hic_received	########
+25	date_sample_received	########
+26	date_hic_received	########
+26	date_sample_received	########
+27	date_hic_received	########
+27	date_sample_received	########
+28	date_hic_received	########
+28	date_sample_received	########
+29	date_hic_received	########
+29	date_sample_received	########
+30	date_hic_received	########
+30	date_sample_received	########
+31	date_hic_received	########
+31	date_sample_received	########
+32	date_hic_received	########
+32	date_sample_received	########
+33	date_hic_received	########
+33	date_sample_received	########
+34	date_hic_received	########
+34	date_sample_received	########
+35	date_hic_received	########
+35	date_sample_received	########
+36	date_hic_received	########
+36	date_sample_received	########
+37	date_hic_received	########
+37	date_sample_received	########
+38	date_hic_received	########
+38	date_sample_received	########
+39	date_hic_received	########
+39	date_sample_received	########
+40	date_hic_received	########
+40	date_sample_received	########
+41	date_hic_received	########
+41	date_sample_received	########
+42	date_hic_received	########
+42	date_sample_received	########
+43	date_hic_received	########
+43	date_sample_received	########
+44	date_hic_received	########
+44	date_sample_received	########
+45	date_hic_received	########
+45	date_sample_received	########
+46	date_hic_received	########
+46	date_sample_received	########
+47	date_hic_received	########
+47	date_sample_received	########
+48	date_hic_received	########
+48	date_sample_received	########
+49	date_hic_received	########
+49	date_sample_received	########
+50	date_hic_received	########
+50	date_sample_received	########
+51	date_hic_received	########
+51	date_sample_received	########
+52	date_hic_received	########
+52	date_sample_received	########
+53	date_hic_received	########
+53	date_sample_received	########
+54	date_hic_received	########
+54	date_sample_received	########
+55	date_hic_received	########
+55	date_sample_received	########
+56	date_hic_received	########
+56	date_sample_received	########
+57	date_hic_received	########
+57	date_sample_received	########
+58	date_hic_received	########
+58	date_sample_received	########
+59	date_hic_received	########
+59	date_sample_received	########
+60	date_hic_received	########
+60	date_sample_received	########
+61	date_hic_received	########
+61	date_sample_received	########
+62	date_hic_received	########
+62	date_sample_received	########
+63	date_hic_received	########
+63	date_sample_received	########
+64	date_hic_received	########
+64	date_sample_received	########
+65	date_hic_received	########
+65	date_sample_received	########
+66	date_hic_received	########
+66	date_sample_received	########
+3	collection_time_point_refrence	1 baseline
+3	collection_time_point_relative	1 baseline
+4	collection_time_point_refrence	1 baseline
+4	collection_time_point_relative	1 baseline
+5	collection_time_point_refrence	1 baseline
+6	collection_time_point_refrence	1 baseline
+7	collection_time_point_refrence	1 baseline
+8	collection_time_point_refrence	1 baseline
+9	collection_time_point_refrence	1 baseline
+9	collection_time_point_relative	1 baseline
+10	collection_time_point_refrence	1 baseline
+10	collection_time_point_relative	1 baseline
+11	collection_time_point_refrence	1 baseline
+12	collection_time_point_refrence	1 baseline
+13	collection_time_point_refrence	1 baseline
+14	collection_time_point_refrence	1 baseline
+15	collection_time_point_refrence	1 baseline
+15	collection_time_point_relative	1 baseline
+16	collection_time_point_refrence	1 baseline
+16	collection_time_point_relative	1 baseline
+17	collection_time_point_refrence	1 baseline
+17	collection_time_point_relative	1 baseline
+18	collection_time_point_refrence	1 baseline
+18	collection_time_point_relative	1 baseline
+19	collection_time_point_refrence	1 baseline
+20	collection_time_point_refrence	1 baseline
+21	collection_time_point_refrence	1 baseline
+22	collection_time_point_refrence	1 baseline
+23	collection_time_point_refrence	1 baseline
+24	collection_time_point_refrence	1 baseline
+25	collection_time_point_refrence	1 baseline
+25	collection_time_point_relative	1 baseline
+26	collection_time_point_refrence	1 baseline
+26	collection_time_point_relative	1 baseline
+27	collection_time_point_refrence	1 baseline
+28	collection_time_point_refrence	1 baseline
+29	collection_time_point_refrence	1 baseline
+30	collection_time_point_refrence	1 baseline
+31	collection_time_point_refrence	1 baseline
+31	collection_time_point_relative	1 baseline
+32	collection_time_point_refrence	1 baseline
+32	collection_time_point_relative	1 baseline
+33	collection_time_point_refrence	1 baseline
+34	collection_time_point_refrence	1 baseline
+35	collection_time_point_refrence	1 baseline
+36	collection_time_point_refrence	1 baseline
+37	collection_time_point_refrence	1 baseline
+37	collection_time_point_relative	1 baseline
+38	collection_time_point_refrence	1 baseline
+38	collection_time_point_relative	1 baseline
+39	collection_time_point_refrence	1 baseline
+40	collection_time_point_refrence	1 baseline
+41	collection_time_point_refrence	1 baseline
+42	collection_time_point_refrence	1 baseline
+43	collection_time_point_refrence	1 baseline
+43	collection_time_point_relative	1 baseline
+44	collection_time_point_refrence	1 baseline
+44	collection_time_point_relative	1 baseline
+45	collection_time_point_refrence	1 baseline
+46	collection_time_point_refrence	1 baseline
+47	collection_time_point_refrence	1 baseline
+48	collection_time_point_refrence	1 baseline
+49	collection_time_point_refrence	1 baseline
+49	collection_time_point_relative	1 baseline
+50	collection_time_point_refrence	1 baseline
+50	collection_time_point_relative	1 baseline
+51	collection_time_point_refrence	1 baseline
+52	collection_time_point_refrence	1 baseline
+53	collection_time_point_refrence	1 baseline
+54	collection_time_point_refrence	1 baseline
+55	collection_time_point_refrence	1 baseline
+55	collection_time_point_relative	1 baseline
+56	collection_time_point_refrence	1 baseline
+56	collection_time_point_relative	1 baseline
+57	collection_time_point_refrence	1 baseline
+58	collection_time_point_refrence	1 baseline
+59	collection_time_point_refrence	1 baseline
+60	collection_time_point_refrence	1 baseline
+61	collection_time_point_refrence	1 baseline
+61	collection_time_point_relative	1 baseline
+62	collection_time_point_refrence	1 baseline
+62	collection_time_point_relative	1 baseline
+63	collection_time_point_refrence	1 baseline
+64	collection_time_point_refrence	1 baseline
+65	collection_time_point_refrence	1 baseline
+66	collection_time_point_refrence	1 baseline
+3	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+4	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+5	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+6	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+7	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+8	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+9	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+10	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+11	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+12	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+13	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+14	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+15	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+16	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+17	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+18	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+19	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+20	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+21	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+22	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+23	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+24	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+25	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+26	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+27	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+28	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+29	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+30	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+31	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+32	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+33	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+34	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+35	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+36	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+37	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+38	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+39	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+40	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+41	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+42	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+43	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+44	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+45	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+46	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+47	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+48	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+49	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+50	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+51	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+52	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+53	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+54	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+55	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+56	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+57	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+58	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+59	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+60	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+61	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+62	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+63	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+64	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+65	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+66	comments_timepoint	1, baseline; 2, 2 weeks; 4, 4 weeks (1 week after the 2nd dose)
+47	customer_id	104
+48	customer_id	104
+53	customer_id	105
+54	customer_id	105
+55	customer_id	114
+56	customer_id	114
+61	customer_id	115
+62	customer_id	115
+31	customer_id	12
+32	customer_id	12
+57	customer_id	124
+58	customer_id	124
+63	customer_id	125
+64	customer_id	125
+37	customer_id	13
+38	customer_id	13
+59	customer_id	134
+60	customer_id	134
+65	customer_id	135
+66	customer_id	135
+33	customer_id	19
+34	customer_id	19
+5	collection_time_point_relative	2 weeks
+6	collection_time_point_relative	2 weeks
+11	collection_time_point_relative	2 weeks
+12	collection_time_point_relative	2 weeks
+19	collection_time_point_relative	2 weeks
+20	collection_time_point_relative	2 weeks
+21	collection_time_point_relative	2 weeks
+22	collection_time_point_relative	2 weeks
+27	collection_time_point_relative	2 weeks
+28	collection_time_point_relative	2 weeks
+33	collection_time_point_relative	2 weeks
+34	collection_time_point_relative	2 weeks
+39	collection_time_point_relative	2 weeks
+40	collection_time_point_relative	2 weeks
+45	collection_time_point_relative	2 weeks
+46	collection_time_point_relative	2 weeks
+51	collection_time_point_relative	2 weeks
+52	collection_time_point_relative	2 weeks
+57	collection_time_point_relative	2 weeks
+58	collection_time_point_relative	2 weeks
+63	collection_time_point_relative	2 weeks
+64	collection_time_point_relative	2 weeks
+39	customer_id	20
+40	customer_id	20
+35	identifier	21-0075
+36	identifier	21-0075
+41	identifier	21-0076
+42	identifier	21-0076
+31	identifier	21-0077
+32	identifier	21-0077
+37	identifier	21-0078
+38	identifier	21-0078
+33	identifier	21-0079
+34	identifier	21-0079
+39	identifier	21-0080
+40	identifier	21-0080
+3	identifier	21-0081
+4	identifier	21-0081
+9	identifier	21-0082
+10	identifier	21-0082
+5	identifier	21-0083
+6	identifier	21-0083
+11	identifier	21-0084
+12	identifier	21-0084
+7	identifier	21-0085
+8	identifier	21-0085
+13	identifier	21-0086
+14	identifier	21-0086
+15	identifier	21-0087
+16	identifier	21-0087
+17	identifier	21-0088
+18	identifier	21-0088
+25	identifier	21-0089
+26	identifier	21-0089
+19	identifier	21-0090
+20	identifier	21-0090
+21	identifier	21-0091
+22	identifier	21-0091
+27	identifier	21-0092
+28	identifier	21-0092
+23	identifier	21-0093
+24	identifier	21-0093
+29	identifier	21-0094
+30	identifier	21-0094
+43	identifier	21-0095
+44	identifier	21-0095
+49	identifier	21-0096
+50	identifier	21-0096
+45	identifier	21-0097
+46	identifier	21-0097
+51	identifier	21-0098
+52	identifier	21-0098
+47	identifier	21-0099
+48	identifier	21-0099
+53	identifier	21-0100
+54	identifier	21-0100
+55	identifier	21-0101
+56	identifier	21-0101
+61	identifier	21-0102
+62	identifier	21-0102
+57	identifier	21-0103
+58	identifier	21-0103
+63	identifier	21-0104
+64	identifier	21-0104
+59	identifier	21-0105
+60	identifier	21-0105
+65	identifier	21-0106
+66	identifier	21-0106
+1	biological_sample	21p-019-Fb1
+1	identifier	21p-019-Fb1
+2	biological_sample	21p-019-W1
+2	identifier	21p-019-W1
+15	Age maximum	23
+15	Age minimum	23
+16	Age maximum	23
+16	Age minimum	23
+17	Age maximum	23
+17	Age minimum	23
+18	Age maximum	23
+18	Age minimum	23
+19	Age maximum	23
+19	Age minimum	23
+20	Age maximum	23
+20	Age minimum	23
+21	Age maximum	23
+21	Age minimum	23
+22	Age maximum	23
+22	Age minimum	23
+23	Age maximum	23
+23	Age minimum	23
+24	Age maximum	23
+24	Age minimum	23
+25	Age maximum	23
+25	Age minimum	23
+26	Age maximum	23
+26	Age minimum	23
+27	Age maximum	23
+27	Age minimum	23
+28	Age maximum	23
+28	Age minimum	23
+29	Age maximum	23
+29	Age minimum	23
+30	Age maximum	23
+30	Age minimum	23
+55	Age maximum	24
+55	Age minimum	24
+56	Age maximum	24
+56	Age minimum	24
+57	Age maximum	24
+57	Age minimum	24
+58	Age maximum	24
+58	Age minimum	24
+59	Age maximum	24
+59	Age minimum	24
+60	Age maximum	24
+60	Age minimum	24
+61	Age maximum	24
+61	Age minimum	24
+62	Age maximum	24
+62	Age minimum	24
+63	Age maximum	24
+63	Age minimum	24
+64	Age maximum	24
+64	Age minimum	24
+65	Age maximum	24
+65	Age minimum	24
+66	Age maximum	24
+66	Age minimum	24
+3	customer_id	28
+4	customer_id	28
+9	customer_id	29
+10	customer_id	29
+1	sequencing_run_date	3/3/2021
+2	sequencing_run_date	3/3/2021
+3	sequencing_run_date	3/3/2021
+4	sequencing_run_date	3/3/2021
+5	sequencing_run_date	3/3/2021
+6	sequencing_run_date	3/3/2021
+7	sequencing_run_date	3/3/2021
+8	sequencing_run_date	3/3/2021
+9	sequencing_run_date	3/3/2021
+10	sequencing_run_date	3/3/2021
+11	sequencing_run_date	3/3/2021
+12	sequencing_run_date	3/3/2021
+13	sequencing_run_date	3/3/2021
+14	sequencing_run_date	3/3/2021
+15	sequencing_run_date	3/3/2021
+16	sequencing_run_date	3/3/2021
+17	sequencing_run_date	3/3/2021
+18	sequencing_run_date	3/3/2021
+19	sequencing_run_date	3/3/2021
+20	sequencing_run_date	3/3/2021
+21	sequencing_run_date	3/3/2021
+22	sequencing_run_date	3/3/2021
+23	sequencing_run_date	3/3/2021
+24	sequencing_run_date	3/3/2021
+25	sequencing_run_date	3/3/2021
+26	sequencing_run_date	3/3/2021
+27	sequencing_run_date	3/3/2021
+28	sequencing_run_date	3/3/2021
+29	sequencing_run_date	3/3/2021
+30	sequencing_run_date	3/3/2021
+31	sequencing_run_date	3/3/2021
+32	sequencing_run_date	3/3/2021
+33	sequencing_run_date	3/3/2021
+34	sequencing_run_date	3/3/2021
+35	sequencing_run_date	3/3/2021
+36	sequencing_run_date	3/3/2021
+37	sequencing_run_date	3/3/2021
+38	sequencing_run_date	3/3/2021
+39	sequencing_run_date	3/3/2021
+40	sequencing_run_date	3/3/2021
+41	sequencing_run_date	3/3/2021
+42	sequencing_run_date	3/3/2021
+43	sequencing_run_date	3/3/2021
+44	sequencing_run_date	3/3/2021
+45	sequencing_run_date	3/3/2021
+46	sequencing_run_date	3/3/2021
+47	sequencing_run_date	3/3/2021
+48	sequencing_run_date	3/3/2021
+49	sequencing_run_date	3/3/2021
+50	sequencing_run_date	3/3/2021
+51	sequencing_run_date	3/3/2021
+52	sequencing_run_date	3/3/2021
+53	sequencing_run_date	3/3/2021
+54	sequencing_run_date	3/3/2021
+55	sequencing_run_date	3/3/2021
+56	sequencing_run_date	3/3/2021
+57	sequencing_run_date	3/3/2021
+58	sequencing_run_date	3/3/2021
+59	sequencing_run_date	3/3/2021
+60	sequencing_run_date	3/3/2021
+61	sequencing_run_date	3/3/2021
+62	sequencing_run_date	3/3/2021
+63	sequencing_run_date	3/3/2021
+64	sequencing_run_date	3/3/2021
+65	sequencing_run_date	3/3/2021
+66	sequencing_run_date	3/3/2021
+3	Age maximum	31
+3	Age minimum	31
+4	Age maximum	31
+4	Age minimum	31
+5	Age maximum	31
+5	Age minimum	31
+6	Age maximum	31
+6	Age minimum	31
+7	Age maximum	31
+7	Age minimum	31
+8	Age maximum	31
+8	Age minimum	31
+9	Age maximum	31
+9	Age minimum	31
+10	Age maximum	31
+10	Age minimum	31
+11	Age maximum	31
+11	Age minimum	31
+12	Age maximum	31
+12	Age minimum	31
+13	Age maximum	31
+13	Age minimum	31
+14	Age maximum	31
+14	Age minimum	31
+5	customer_id	34
+6	customer_id	34
+11	customer_id	35
+12	customer_id	35
+7	collection_time_point_relative	4 weeks
+8	collection_time_point_relative	4 weeks
+13	collection_time_point_relative	4 weeks
+14	collection_time_point_relative	4 weeks
+23	collection_time_point_relative	4 weeks
+24	collection_time_point_relative	4 weeks
+29	collection_time_point_relative	4 weeks
+30	collection_time_point_relative	4 weeks
+35	collection_time_point_relative	4 weeks
+36	collection_time_point_relative	4 weeks
+41	collection_time_point_relative	4 weeks
+42	collection_time_point_relative	4 weeks
+47	collection_time_point_relative	4 weeks
+48	collection_time_point_relative	4 weeks
+53	collection_time_point_relative	4 weeks
+54	collection_time_point_relative	4 weeks
+59	collection_time_point_relative	4 weeks
+60	collection_time_point_relative	4 weeks
+65	collection_time_point_relative	4 weeks
+66	collection_time_point_relative	4 weeks
+7	customer_id	40
+8	customer_id	40
+13	customer_id	41
+14	customer_id	41
+43	Age maximum	43
+43	Age minimum	43
+44	Age maximum	43
+44	Age minimum	43
+45	Age maximum	43
+45	Age minimum	43
+46	Age maximum	43
+46	Age minimum	43
+47	Age maximum	43
+47	Age minimum	43
+48	Age maximum	43
+48	Age minimum	43
+49	Age maximum	43
+49	Age minimum	43
+50	Age maximum	43
+50	Age minimum	43
+51	Age maximum	43
+51	Age minimum	43
+52	Age maximum	43
+52	Age minimum	43
+53	Age maximum	43
+53	Age minimum	43
+54	Age maximum	43
+54	Age minimum	43
+15	customer_id	50
+16	customer_id	50
+17	customer_id	51
+18	customer_id	51
+25	customer_id	52
+26	customer_id	52
+31	Age maximum	53
+31	Age minimum	53
+32	Age maximum	53
+32	Age minimum	53
+33	Age maximum	53
+33	Age minimum	53
+34	Age maximum	53
+34	Age minimum	53
+35	Age maximum	53
+35	Age minimum	53
+36	Age maximum	53
+36	Age minimum	53
+37	Age maximum	53
+37	Age minimum	53
+38	Age maximum	53
+38	Age minimum	53
+39	Age maximum	53
+39	Age minimum	53
+40	Age maximum	53
+40	Age minimum	53
+41	Age maximum	53
+41	Age minimum	53
+42	Age maximum	53
+42	Age minimum	53
+19	customer_id	61
+20	customer_id	61
+21	customer_id	62
+22	customer_id	62
+27	customer_id	63
+28	customer_id	63
+35	customer_id	7
+36	customer_id	7
+23	customer_id	72
+24	customer_id	72
+29	customer_id	73
+30	customer_id	73
+41	customer_id	8
+42	customer_id	8
+43	customer_id	82
+44	customer_id	82
+49	customer_id	83
+50	customer_id	83
+45	customer_id	94
+46	customer_id	94
+51	customer_id	95
+52	customer_id	95
+1	sequencing_type	Bulk
+2	sequencing_type	Bulk
+3	sequencing_type	Bulk
+4	sequencing_type	Bulk
+5	sequencing_type	Bulk
+6	sequencing_type	Bulk
+7	sequencing_type	Bulk
+8	sequencing_type	Bulk
+9	sequencing_type	Bulk
+10	sequencing_type	Bulk
+11	sequencing_type	Bulk
+12	sequencing_type	Bulk
+13	sequencing_type	Bulk
+14	sequencing_type	Bulk
+15	sequencing_type	Bulk
+16	sequencing_type	Bulk
+17	sequencing_type	Bulk
+18	sequencing_type	Bulk
+19	sequencing_type	Bulk
+20	sequencing_type	Bulk
+21	sequencing_type	Bulk
+22	sequencing_type	Bulk
+23	sequencing_type	Bulk
+24	sequencing_type	Bulk
+25	sequencing_type	Bulk
+26	sequencing_type	Bulk
+27	sequencing_type	Bulk
+28	sequencing_type	Bulk
+29	sequencing_type	Bulk
+30	sequencing_type	Bulk
+31	sequencing_type	Bulk
+32	sequencing_type	Bulk
+33	sequencing_type	Bulk
+34	sequencing_type	Bulk
+35	sequencing_type	Bulk
+36	sequencing_type	Bulk
+37	sequencing_type	Bulk
+38	sequencing_type	Bulk
+39	sequencing_type	Bulk
+40	sequencing_type	Bulk
+41	sequencing_type	Bulk
+42	sequencing_type	Bulk
+43	sequencing_type	Bulk
+44	sequencing_type	Bulk
+45	sequencing_type	Bulk
+46	sequencing_type	Bulk
+47	sequencing_type	Bulk
+48	sequencing_type	Bulk
+49	sequencing_type	Bulk
+50	sequencing_type	Bulk
+51	sequencing_type	Bulk
+52	sequencing_type	Bulk
+53	sequencing_type	Bulk
+54	sequencing_type	Bulk
+55	sequencing_type	Bulk
+56	sequencing_type	Bulk
+57	sequencing_type	Bulk
+58	sequencing_type	Bulk
+59	sequencing_type	Bulk
+60	sequencing_type	Bulk
+61	sequencing_type	Bulk
+62	sequencing_type	Bulk
+63	sequencing_type	Bulk
+64	sequencing_type	Bulk
+65	sequencing_type	Bulk
+66	sequencing_type	Bulk
+3	disease_diagnosis	Covid Convalescent
+4	disease_diagnosis	Covid Convalescent
+5	disease_diagnosis	Covid Convalescent
+6	disease_diagnosis	Covid Convalescent
+7	disease_diagnosis	Covid Convalescent
+8	disease_diagnosis	Covid Convalescent
+9	disease_diagnosis	Covid Convalescent
+10	disease_diagnosis	Covid Convalescent
+11	disease_diagnosis	Covid Convalescent
+12	disease_diagnosis	Covid Convalescent
+13	disease_diagnosis	Covid Convalescent
+14	disease_diagnosis	Covid Convalescent
+15	disease_diagnosis	Covid Convalescent
+16	disease_diagnosis	Covid Convalescent
+17	disease_diagnosis	Covid Convalescent
+18	disease_diagnosis	Covid Convalescent
+19	disease_diagnosis	Covid Convalescent
+20	disease_diagnosis	Covid Convalescent
+21	disease_diagnosis	Covid Convalescent
+22	disease_diagnosis	Covid Convalescent
+23	disease_diagnosis	Covid Convalescent
+24	disease_diagnosis	Covid Convalescent
+25	disease_diagnosis	Covid Convalescent
+26	disease_diagnosis	Covid Convalescent
+27	disease_diagnosis	Covid Convalescent
+28	disease_diagnosis	Covid Convalescent
+29	disease_diagnosis	Covid Convalescent
+30	disease_diagnosis	Covid Convalescent
+31	disease_diagnosis	Covid Convalescent
+32	disease_diagnosis	Covid Convalescent
+33	disease_diagnosis	Covid Convalescent
+34	disease_diagnosis	Covid Convalescent
+35	disease_diagnosis	Covid Convalescent
+36	disease_diagnosis	Covid Convalescent
+37	disease_diagnosis	Covid Convalescent
+38	disease_diagnosis	Covid Convalescent
+39	disease_diagnosis	Covid Convalescent
+40	disease_diagnosis	Covid Convalescent
+41	disease_diagnosis	Covid Convalescent
+42	disease_diagnosis	Covid Convalescent
+43	disease_diagnosis	Covid Convalescent
+44	disease_diagnosis	Covid Convalescent
+45	disease_diagnosis	Covid Convalescent
+46	disease_diagnosis	Covid Convalescent
+47	disease_diagnosis	Covid Convalescent
+48	disease_diagnosis	Covid Convalescent
+49	disease_diagnosis	Covid Convalescent
+50	disease_diagnosis	Covid Convalescent
+51	disease_diagnosis	Covid Convalescent
+52	disease_diagnosis	Covid Convalescent
+53	disease_diagnosis	Covid Convalescent
+54	disease_diagnosis	Covid Convalescent
+55	disease_diagnosis	Covid Convalescent
+56	disease_diagnosis	Covid Convalescent
+57	disease_diagnosis	Covid Convalescent
+58	disease_diagnosis	Covid Convalescent
+59	disease_diagnosis	Covid Convalescent
+60	disease_diagnosis	Covid Convalescent
+61	disease_diagnosis	Covid Convalescent
+62	disease_diagnosis	Covid Convalescent
+63	disease_diagnosis	Covid Convalescent
+64	disease_diagnosis	Covid Convalescent
+65	disease_diagnosis	Covid Convalescent
+66	disease_diagnosis	Covid Convalescent
+1	study_title	covid_vaccine
+2	study_title	covid_vaccine
+3	study_title	covid_vaccine
+4	study_title	covid_vaccine
+5	study_title	covid_vaccine
+6	study_title	covid_vaccine
+7	study_title	covid_vaccine
+8	study_title	covid_vaccine
+9	study_title	covid_vaccine
+10	study_title	covid_vaccine
+11	study_title	covid_vaccine
+12	study_title	covid_vaccine
+13	study_title	covid_vaccine
+14	study_title	covid_vaccine
+15	study_title	covid_vaccine
+16	study_title	covid_vaccine
+17	study_title	covid_vaccine
+18	study_title	covid_vaccine
+19	study_title	covid_vaccine
+20	study_title	covid_vaccine
+21	study_title	covid_vaccine
+22	study_title	covid_vaccine
+23	study_title	covid_vaccine
+24	study_title	covid_vaccine
+25	study_title	covid_vaccine
+26	study_title	covid_vaccine
+27	study_title	covid_vaccine
+28	study_title	covid_vaccine
+29	study_title	covid_vaccine
+30	study_title	covid_vaccine
+31	study_title	covid_vaccine
+32	study_title	covid_vaccine
+33	study_title	covid_vaccine
+34	study_title	covid_vaccine
+35	study_title	covid_vaccine
+36	study_title	covid_vaccine
+37	study_title	covid_vaccine
+38	study_title	covid_vaccine
+39	study_title	covid_vaccine
+40	study_title	covid_vaccine
+41	study_title	covid_vaccine
+42	study_title	covid_vaccine
+43	study_title	covid_vaccine
+44	study_title	covid_vaccine
+45	study_title	covid_vaccine
+46	study_title	covid_vaccine
+47	study_title	covid_vaccine
+48	study_title	covid_vaccine
+49	study_title	covid_vaccine
+50	study_title	covid_vaccine
+51	study_title	covid_vaccine
+52	study_title	covid_vaccine
+53	study_title	covid_vaccine
+54	study_title	covid_vaccine
+55	study_title	covid_vaccine
+56	study_title	covid_vaccine
+57	study_title	covid_vaccine
+58	study_title	covid_vaccine
+59	study_title	covid_vaccine
+60	study_title	covid_vaccine
+61	study_title	covid_vaccine
+62	study_title	covid_vaccine
+63	study_title	covid_vaccine
+64	study_title	covid_vaccine
+65	study_title	covid_vaccine
+66	study_title	covid_vaccine
+3	comments	dump- (live/dead and CD14), exclude plasmablasts
+4	comments	dump- (live/dead and CD14), exclude plasmablasts
+5	comments	dump- (live/dead and CD14), exclude plasmablasts
+6	comments	dump- (live/dead and CD14), exclude plasmablasts
+7	comments	dump- (live/dead and CD14), exclude plasmablasts
+8	comments	dump- (live/dead and CD14), exclude plasmablasts
+9	comments	dump- (live/dead and CD14), exclude plasmablasts
+10	comments	dump- (live/dead and CD14), exclude plasmablasts
+11	comments	dump- (live/dead and CD14), exclude plasmablasts
+12	comments	dump- (live/dead and CD14), exclude plasmablasts
+13	comments	dump- (live/dead and CD14), exclude plasmablasts
+14	comments	dump- (live/dead and CD14), exclude plasmablasts
+15	comments	dump- (live/dead and CD14), exclude plasmablasts
+16	comments	dump- (live/dead and CD14), exclude plasmablasts
+17	comments	dump- (live/dead and CD14), exclude plasmablasts
+18	comments	dump- (live/dead and CD14), exclude plasmablasts
+19	comments	dump- (live/dead and CD14), exclude plasmablasts
+20	comments	dump- (live/dead and CD14), exclude plasmablasts
+21	comments	dump- (live/dead and CD14), exclude plasmablasts
+22	comments	dump- (live/dead and CD14), exclude plasmablasts
+23	comments	dump- (live/dead and CD14), exclude plasmablasts
+24	comments	dump- (live/dead and CD14), exclude plasmablasts
+25	comments	dump- (live/dead and CD14), exclude plasmablasts
+26	comments	dump- (live/dead and CD14), exclude plasmablasts
+27	comments	dump- (live/dead and CD14), exclude plasmablasts
+28	comments	dump- (live/dead and CD14), exclude plasmablasts
+29	comments	dump- (live/dead and CD14), exclude plasmablasts
+30	comments	dump- (live/dead and CD14), exclude plasmablasts
+31	comments	dump- (live/dead and CD14), exclude plasmablasts
+32	comments	dump- (live/dead and CD14), exclude plasmablasts
+33	comments	dump- (live/dead and CD14), exclude plasmablasts
+34	comments	dump- (live/dead and CD14), exclude plasmablasts
+35	comments	dump- (live/dead and CD14), exclude plasmablasts
+36	comments	dump- (live/dead and CD14), exclude plasmablasts
+37	comments	dump- (live/dead and CD14), exclude plasmablasts
+38	comments	dump- (live/dead and CD14), exclude plasmablasts
+39	comments	dump- (live/dead and CD14), exclude plasmablasts
+40	comments	dump- (live/dead and CD14), exclude plasmablasts
+41	comments	dump- (live/dead and CD14), exclude plasmablasts
+42	comments	dump- (live/dead and CD14), exclude plasmablasts
+43	comments	dump- (live/dead and CD14), exclude plasmablasts
+44	comments	dump- (live/dead and CD14), exclude plasmablasts
+45	comments	dump- (live/dead and CD14), exclude plasmablasts
+46	comments	dump- (live/dead and CD14), exclude plasmablasts
+47	comments	dump- (live/dead and CD14), exclude plasmablasts
+48	comments	dump- (live/dead and CD14), exclude plasmablasts
+49	comments	dump- (live/dead and CD14), exclude plasmablasts
+50	comments	dump- (live/dead and CD14), exclude plasmablasts
+51	comments	dump- (live/dead and CD14), exclude plasmablasts
+52	comments	dump- (live/dead and CD14), exclude plasmablasts
+53	comments	dump- (live/dead and CD14), exclude plasmablasts
+54	comments	dump- (live/dead and CD14), exclude plasmablasts
+55	comments	dump- (live/dead and CD14), exclude plasmablasts
+56	comments	dump- (live/dead and CD14), exclude plasmablasts
+57	comments	dump- (live/dead and CD14), exclude plasmablasts
+58	comments	dump- (live/dead and CD14), exclude plasmablasts
+59	comments	dump- (live/dead and CD14), exclude plasmablasts
+60	comments	dump- (live/dead and CD14), exclude plasmablasts
+61	comments	dump- (live/dead and CD14), exclude plasmablasts
+62	comments	dump- (live/dead and CD14), exclude plasmablasts
+63	comments	dump- (live/dead and CD14), exclude plasmablasts
+64	comments	dump- (live/dead and CD14), exclude plasmablasts
+65	comments	dump- (live/dead and CD14), exclude plasmablasts
+66	comments	dump- (live/dead and CD14), exclude plasmablasts
+9	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+10	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+11	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+12	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+13	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+14	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+25	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+26	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+27	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+28	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+29	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+30	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+37	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+38	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+39	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+40	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+41	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+42	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+49	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+50	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+51	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+52	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+53	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+54	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+61	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+62	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+63	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+64	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+65	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+66	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike+_HA-
+3	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+4	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+5	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+6	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+7	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+8	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+15	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+16	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+17	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+18	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+19	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+20	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+21	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+22	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+23	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+24	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+31	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+32	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+33	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+34	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+35	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+36	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+43	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+44	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+45	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+46	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+47	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+48	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+55	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+56	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+57	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+58	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+59	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+60	cell_phenotype	dump_CD19+_CD27+_CD38lo/int_spike-_HA+/-
+31	sex	female
+32	sex	female
+33	sex	female
+34	sex	female
+35	sex	female
+36	sex	female
+37	sex	female
+38	sex	female
+39	sex	female
+40	sex	female
+41	sex	female
+42	sex	female
+43	sex	female
+44	sex	female
+45	sex	female
+46	sex	female
+47	sex	female
+48	sex	female
+49	sex	female
+50	sex	female
+51	sex	female
+52	sex	female
+53	sex	female
+54	sex	female
+1	species	Homo sapiens
+2	species	Homo sapiens
+3	species	Homo sapiens
+4	species	Homo sapiens
+5	species	Homo sapiens
+6	species	Homo sapiens
+7	species	Homo sapiens
+8	species	Homo sapiens
+9	species	Homo sapiens
+10	species	Homo sapiens
+11	species	Homo sapiens
+12	species	Homo sapiens
+13	species	Homo sapiens
+14	species	Homo sapiens
+15	species	Homo sapiens
+16	species	Homo sapiens
+17	species	Homo sapiens
+18	species	Homo sapiens
+19	species	Homo sapiens
+20	species	Homo sapiens
+21	species	Homo sapiens
+22	species	Homo sapiens
+23	species	Homo sapiens
+24	species	Homo sapiens
+25	species	Homo sapiens
+26	species	Homo sapiens
+27	species	Homo sapiens
+28	species	Homo sapiens
+29	species	Homo sapiens
+30	species	Homo sapiens
+31	species	Homo sapiens
+32	species	Homo sapiens
+33	species	Homo sapiens
+34	species	Homo sapiens
+35	species	Homo sapiens
+36	species	Homo sapiens
+37	species	Homo sapiens
+38	species	Homo sapiens
+39	species	Homo sapiens
+40	species	Homo sapiens
+41	species	Homo sapiens
+42	species	Homo sapiens
+43	species	Homo sapiens
+44	species	Homo sapiens
+45	species	Homo sapiens
+46	species	Homo sapiens
+47	species	Homo sapiens
+48	species	Homo sapiens
+49	species	Homo sapiens
+50	species	Homo sapiens
+51	species	Homo sapiens
+52	species	Homo sapiens
+53	species	Homo sapiens
+54	species	Homo sapiens
+55	species	Homo sapiens
+56	species	Homo sapiens
+57	species	Homo sapiens
+58	species	Homo sapiens
+59	species	Homo sapiens
+60	species	Homo sapiens
+61	species	Homo sapiens
+62	species	Homo sapiens
+63	species	Homo sapiens
+64	species	Homo sapiens
+65	species	Homo sapiens
+66	species	Homo sapiens
+1	pcr_target_locus	IgH
+2	pcr_target_locus	IgH
+3	pcr_target_locus	IgH
+4	pcr_target_locus	IgH
+5	pcr_target_locus	IgH
+6	pcr_target_locus	IgH
+7	pcr_target_locus	IgH
+8	pcr_target_locus	IgH
+9	pcr_target_locus	IgH
+10	pcr_target_locus	IgH
+11	pcr_target_locus	IgH
+12	pcr_target_locus	IgH
+13	pcr_target_locus	IgH
+14	pcr_target_locus	IgH
+15	pcr_target_locus	IgH
+16	pcr_target_locus	IgH
+17	pcr_target_locus	IgH
+18	pcr_target_locus	IgH
+19	pcr_target_locus	IgH
+20	pcr_target_locus	IgH
+21	pcr_target_locus	IgH
+22	pcr_target_locus	IgH
+23	pcr_target_locus	IgH
+24	pcr_target_locus	IgH
+25	pcr_target_locus	IgH
+26	pcr_target_locus	IgH
+27	pcr_target_locus	IgH
+28	pcr_target_locus	IgH
+29	pcr_target_locus	IgH
+30	pcr_target_locus	IgH
+31	pcr_target_locus	IgH
+32	pcr_target_locus	IgH
+33	pcr_target_locus	IgH
+34	pcr_target_locus	IgH
+35	pcr_target_locus	IgH
+36	pcr_target_locus	IgH
+37	pcr_target_locus	IgH
+38	pcr_target_locus	IgH
+39	pcr_target_locus	IgH
+40	pcr_target_locus	IgH
+41	pcr_target_locus	IgH
+42	pcr_target_locus	IgH
+43	pcr_target_locus	IgH
+44	pcr_target_locus	IgH
+45	pcr_target_locus	IgH
+46	pcr_target_locus	IgH
+47	pcr_target_locus	IgH
+48	pcr_target_locus	IgH
+49	pcr_target_locus	IgH
+50	pcr_target_locus	IgH
+51	pcr_target_locus	IgH
+52	pcr_target_locus	IgH
+53	pcr_target_locus	IgH
+54	pcr_target_locus	IgH
+55	pcr_target_locus	IgH
+56	pcr_target_locus	IgH
+57	pcr_target_locus	IgH
+58	pcr_target_locus	IgH
+59	pcr_target_locus	IgH
+60	pcr_target_locus	IgH
+61	pcr_target_locus	IgH
+62	pcr_target_locus	IgH
+63	pcr_target_locus	IgH
+64	pcr_target_locus	IgH
+65	pcr_target_locus	IgH
+66	pcr_target_locus	IgH
+1	sample_name	IgH_21p-019-Fb1_rep1
+2	sample_name	IgH_21p-019-W1_rep1
+3	sample_name	IgH_IHCV2020-005-Non-Spike-B-1TP_rep1_50p0ng
+4	sample_name	IgH_IHCV2020-005-Non-Spike-B-1TP_rep2_50p0ng
+5	sample_name	IgH_IHCV2020-005-Non-Spike-B-2TP_rep1_25p22ng
+6	sample_name	IgH_IHCV2020-005-Non-Spike-B-2TP_rep2_25p22ng
+7	sample_name	IgH_IHCV2020-005-Non-Spike-B-4TP_rep1_28p73ng
+8	sample_name	IgH_IHCV2020-005-Non-Spike-B-4TP_rep2_28p73ng
+9	sample_name	IgH_IHCV2020-005-Spikepos-Mem-B-1TP_rep1_1p224ng
+10	sample_name	IgH_IHCV2020-005-Spikepos-Mem-B-1TP_rep2_1p224ng
+11	sample_name	IgH_IHCV2020-005-Spikepos-Mem-B-2TP_rep1_0p69ng
+12	sample_name	IgH_IHCV2020-005-Spikepos-Mem-B-2TP_rep2_0p69ng
+13	sample_name	IgH_IHCV2020-005-Spikepos-Mem-B-4TP_rep1_0p564ng
+14	sample_name	IgH_IHCV2020-005-Spikepos-Mem-B-4TP_rep2_0p564ng
+15	sample_name	IgH_IHCV2020-019-Non-Spike-B-1TP-aliquot1_rep1_50p0ng
+16	sample_name	IgH_IHCV2020-019-Non-Spike-B-1TP-aliquot1_rep2_50p0ng
+17	sample_name	IgH_IHCV2020-019-Non-Spike-B-1TP-aliquot2_rep1_9p295ng
+18	sample_name	IgH_IHCV2020-019-Non-Spike-B-1TP-aliquot2_rep2_9p295ng
+19	sample_name	IgH_IHCV2020-019-Non-Spike-B-2TP-aliquot1_rep1_50p0ng
+20	sample_name	IgH_IHCV2020-019-Non-Spike-B-2TP-aliquot1_rep2_50p0ng
+21	sample_name	IgH_IHCV2020-019-Non-Spike-B-2TP-aliquot2_rep1_18p98ng
+22	sample_name	IgH_IHCV2020-019-Non-Spike-B-2TP-aliquot2_rep2_18p98ng
+23	sample_name	IgH_IHCV2020-019-Non-Spike-B-4TP_rep1_35p75ng
+24	sample_name	IgH_IHCV2020-019-Non-Spike-B-4TP_rep2_35p75ng
+25	sample_name	IgH_IHCV2020-019-Spikepos-Mem-B-1TP_rep1_0p87ng
+26	sample_name	IgH_IHCV2020-019-Spikepos-Mem-B-1TP_rep2_0p87ng
+27	sample_name	IgH_IHCV2020-019-Spikepos-Mem-B-2TP_rep1_0p492ng
+28	sample_name	IgH_IHCV2020-019-Spikepos-Mem-B-2TP_rep2_0p492ng
+29	sample_name	IgH_IHCV2020-019-Spikepos-Mem-B-4TP_rep1
+30	sample_name	IgH_IHCV2020-019-Spikepos-Mem-B-4TP_rep2
+31	sample_name	IgH_IHCV2020-020-Non-Spike-B-1TP_rep1_50p0ng
+32	sample_name	IgH_IHCV2020-020-Non-Spike-B-1TP_rep2_50p0ng
+33	sample_name	IgH_IHCV2020-020-Non-Spike-B-2TP_rep1_50p0ng
+34	sample_name	IgH_IHCV2020-020-Non-Spike-B-2TP_rep2_50p0ng
+35	sample_name	IgH_IHCV2020-020-Non-Spike-B-4TP_rep1_50p0ng
+36	sample_name	IgH_IHCV2020-020-Non-Spike-B-4TP_rep2_50p0ng
+37	sample_name	IgH_IHCV2020-020-Spikepos-Mem-B-1TP_rep1_1p26ng
+38	sample_name	IgH_IHCV2020-020-Spikepos-Mem-B-1TP_rep2_1p26ng
+39	sample_name	IgH_IHCV2020-020-Spikepos-Mem-B-2TP_rep1_1p846ng
+40	sample_name	IgH_IHCV2020-020-Spikepos-Mem-B-2TP_rep2_1p846ng
+41	sample_name	IgH_IHCV2020-020-Spikepos-Mem-B-4TP_rep1_8p385ng
+42	sample_name	IgH_IHCV2020-020-Spikepos-Mem-B-4TP_rep2_8p385ng
+43	sample_name	IgH_IHCV2020-022-Non-Spike-B-1TP_rep1_29p51ng
+44	sample_name	IgH_IHCV2020-022-Non-Spike-B-1TP_rep2_29p51ng
+45	sample_name	IgH_IHCV2020-022-Non-Spike-B-2TP_rep1_18p46ng
+46	sample_name	IgH_IHCV2020-022-Non-Spike-B-2TP_rep2_18p46ng
+47	sample_name	IgH_IHCV2020-022-Non-Spike-B-4TP_rep1_50p0ng
+48	sample_name	IgH_IHCV2020-022-Non-Spike-B-4TP_rep2_50p0ng
+49	sample_name	IgH_IHCV2020-022-Spikepos-Mem-B-1TP_rep1_0p312ng
+50	sample_name	IgH_IHCV2020-022-Spikepos-Mem-B-1TP_rep2_0p312ng
+51	sample_name	IgH_IHCV2020-022-Spikepos-Mem-B-2TP_rep1_0p534ng
+52	sample_name	IgH_IHCV2020-022-Spikepos-Mem-B-2TP_rep2_0p534ng
+53	sample_name	IgH_IHCV2020-022-Spikepos-Mem-B-4TP_rep1_0p606ng
+54	sample_name	IgH_IHCV2020-022-Spikepos-Mem-B-4TP_rep2_0p606ng
+55	sample_name	IgH_IHCV2020-029-Non-Spike-B-1TP_rep1_17p42ng
+56	sample_name	IgH_IHCV2020-029-Non-Spike-B-1TP_rep2_17p42ng
+57	sample_name	IgH_IHCV2020-029-Non-Spike-B-2TP_rep1_28p34ng
+58	sample_name	IgH_IHCV2020-029-Non-Spike-B-2TP_rep2_28p34ng
+59	sample_name	IgH_IHCV2020-029-Non-Spike-B-4TP_rep1_0p988ng
+60	sample_name	IgH_IHCV2020-029-Non-Spike-B-4TP_rep2_0p988ng
+61	sample_name	IgH_IHCV2020-029-Spikepos-Mem-B-1TP_rep1
+62	sample_name	IgH_IHCV2020-029-Spikepos-Mem-B-1TP_rep2
+63	sample_name	IgH_IHCV2020-029-Spikepos-Mem-B-2TP_rep1_0p3ng
+64	sample_name	IgH_IHCV2020-029-Spikepos-Mem-B-2TP_rep2_0p3ng
+65	sample_name	IgH_IHCV2020-029-Spikepos-Mem-B-4TP_rep1_2p838ng
+66	sample_name	IgH_IHCV2020-029-Spikepos-Mem-B-4TP_rep2_2p838ng
+3	biological_sample	IHCV2020-005-Non-Spike-B-1TP
+4	biological_sample	IHCV2020-005-Non-Spike-B-1TP
+5	biological_sample	IHCV2020-005-Non-Spike-B-2TP
+6	biological_sample	IHCV2020-005-Non-Spike-B-2TP
+7	biological_sample	IHCV2020-005-Non-Spike-B-4TP
+8	biological_sample	IHCV2020-005-Non-Spike-B-4TP
+9	biological_sample	IHCV2020-005-Spikepos-Mem-B-1TP
+10	biological_sample	IHCV2020-005-Spikepos-Mem-B-1TP
+11	biological_sample	IHCV2020-005-Spikepos-Mem-B-2TP
+12	biological_sample	IHCV2020-005-Spikepos-Mem-B-2TP
+13	biological_sample	IHCV2020-005-Spikepos-Mem-B-4TP
+14	biological_sample	IHCV2020-005-Spikepos-Mem-B-4TP
+15	biological_sample	IHCV2020-019-Non-Spike-B-1TP-aliquot1
+16	biological_sample	IHCV2020-019-Non-Spike-B-1TP-aliquot1
+17	biological_sample	IHCV2020-019-Non-Spike-B-1TP-aliquot2
+18	biological_sample	IHCV2020-019-Non-Spike-B-1TP-aliquot2
+19	biological_sample	IHCV2020-019-Non-Spike-B-2TP-aliquot1
+20	biological_sample	IHCV2020-019-Non-Spike-B-2TP-aliquot1
+21	biological_sample	IHCV2020-019-Non-Spike-B-2TP-aliquot2
+22	biological_sample	IHCV2020-019-Non-Spike-B-2TP-aliquot2
+23	biological_sample	IHCV2020-019-Non-Spike-B-4TP
+24	biological_sample	IHCV2020-019-Non-Spike-B-4TP
+25	biological_sample	IHCV2020-019-Spikepos-Mem-B-1TP
+26	biological_sample	IHCV2020-019-Spikepos-Mem-B-1TP
+27	biological_sample	IHCV2020-019-Spikepos-Mem-B-2TP
+28	biological_sample	IHCV2020-019-Spikepos-Mem-B-2TP
+29	biological_sample	IHCV2020-019-Spikepos-Mem-B-4TP
+30	biological_sample	IHCV2020-019-Spikepos-Mem-B-4TP
+31	biological_sample	IHCV2020-020-Non-Spike-B-1TP
+32	biological_sample	IHCV2020-020-Non-Spike-B-1TP
+33	biological_sample	IHCV2020-020-Non-Spike-B-2TP
+34	biological_sample	IHCV2020-020-Non-Spike-B-2TP
+35	biological_sample	IHCV2020-020-Non-Spike-B-4TP
+36	biological_sample	IHCV2020-020-Non-Spike-B-4TP
+37	biological_sample	IHCV2020-020-Spikepos-Mem-B-1TP
+38	biological_sample	IHCV2020-020-Spikepos-Mem-B-1TP
+39	biological_sample	IHCV2020-020-Spikepos-Mem-B-2TP
+40	biological_sample	IHCV2020-020-Spikepos-Mem-B-2TP
+41	biological_sample	IHCV2020-020-Spikepos-Mem-B-4TP
+42	biological_sample	IHCV2020-020-Spikepos-Mem-B-4TP
+43	biological_sample	IHCV2020-022-Non-Spike-B-1TP
+44	biological_sample	IHCV2020-022-Non-Spike-B-1TP
+45	biological_sample	IHCV2020-022-Non-Spike-B-2TP
+46	biological_sample	IHCV2020-022-Non-Spike-B-2TP
+47	biological_sample	IHCV2020-022-Non-Spike-B-4TP
+48	biological_sample	IHCV2020-022-Non-Spike-B-4TP
+49	biological_sample	IHCV2020-022-Spikepos-Mem-B-1TP
+50	biological_sample	IHCV2020-022-Spikepos-Mem-B-1TP
+51	biological_sample	IHCV2020-022-Spikepos-Mem-B-2TP
+52	biological_sample	IHCV2020-022-Spikepos-Mem-B-2TP
+53	biological_sample	IHCV2020-022-Spikepos-Mem-B-4TP
+54	biological_sample	IHCV2020-022-Spikepos-Mem-B-4TP
+55	biological_sample	IHCV2020-029-Non-Spike-B-1TP
+56	biological_sample	IHCV2020-029-Non-Spike-B-1TP
+57	biological_sample	IHCV2020-029-Non-Spike-B-2TP
+58	biological_sample	IHCV2020-029-Non-Spike-B-2TP
+59	biological_sample	IHCV2020-029-Non-Spike-B-4TP
+60	biological_sample	IHCV2020-029-Non-Spike-B-4TP
+61	biological_sample	IHCV2020-029-Spikepos-Mem-B-1TP
+62	biological_sample	IHCV2020-029-Spikepos-Mem-B-1TP
+63	biological_sample	IHCV2020-029-Spikepos-Mem-B-2TP
+64	biological_sample	IHCV2020-029-Spikepos-Mem-B-2TP
+65	biological_sample	IHCV2020-029-Spikepos-Mem-B-4TP
+66	biological_sample	IHCV2020-029-Spikepos-Mem-B-4TP
+3	sex	male
+4	sex	male
+5	sex	male
+6	sex	male
+7	sex	male
+8	sex	male
+9	sex	male
+10	sex	male
+11	sex	male
+12	sex	male
+13	sex	male
+14	sex	male
+15	sex	male
+16	sex	male
+17	sex	male
+18	sex	male
+19	sex	male
+20	sex	male
+21	sex	male
+22	sex	male
+23	sex	male
+24	sex	male
+25	sex	male
+26	sex	male
+27	sex	male
+28	sex	male
+29	sex	male
+30	sex	male
+55	sex	male
+56	sex	male
+57	sex	male
+58	sex	male
+59	sex	male
+60	sex	male
+61	sex	male
+62	sex	male
+63	sex	male
+64	sex	male
+65	sex	male
+66	sex	male
+1	disease_stage	NA
+2	disease_stage	NA
+3	disease_stage	NA
+4	disease_stage	NA
+5	disease_stage	NA
+6	disease_stage	NA
+7	disease_stage	NA
+8	disease_stage	NA
+9	disease_stage	NA
+10	disease_stage	NA
+11	disease_stage	NA
+12	disease_stage	NA
+13	disease_stage	NA
+14	disease_stage	NA
+15	disease_stage	NA
+16	disease_stage	NA
+17	disease_stage	NA
+18	disease_stage	NA
+19	disease_stage	NA
+20	disease_stage	NA
+21	disease_stage	NA
+22	disease_stage	NA
+23	disease_stage	NA
+24	disease_stage	NA
+25	disease_stage	NA
+26	disease_stage	NA
+27	disease_stage	NA
+28	disease_stage	NA
+29	disease_stage	NA
+30	disease_stage	NA
+31	disease_stage	NA
+32	disease_stage	NA
+33	disease_stage	NA
+34	disease_stage	NA
+35	disease_stage	NA
+36	disease_stage	NA
+37	disease_stage	NA
+38	disease_stage	NA
+39	disease_stage	NA
+40	disease_stage	NA
+41	disease_stage	NA
+42	disease_stage	NA
+43	disease_stage	NA
+44	disease_stage	NA
+45	disease_stage	NA
+46	disease_stage	NA
+47	disease_stage	NA
+48	disease_stage	NA
+49	disease_stage	NA
+50	disease_stage	NA
+51	disease_stage	NA
+52	disease_stage	NA
+53	disease_stage	NA
+54	disease_stage	NA
+55	disease_stage	NA
+56	disease_stage	NA
+57	disease_stage	NA
+58	disease_stage	NA
+59	disease_stage	NA
+60	disease_stage	NA
+61	disease_stage	NA
+62	disease_stage	NA
+63	disease_stage	NA
+64	disease_stage	NA
+65	disease_stage	NA
+66	disease_stage	NA
+3	cell_subset	Non-Spike B
+4	cell_subset	Non-Spike B
+5	cell_subset	Non-Spike B
+6	cell_subset	Non-Spike B
+7	cell_subset	Non-Spike B
+8	cell_subset	Non-Spike B
+15	cell_subset	Non-Spike B
+16	cell_subset	Non-Spike B
+17	cell_subset	Non-Spike B
+18	cell_subset	Non-Spike B
+19	cell_subset	Non-Spike B
+20	cell_subset	Non-Spike B
+21	cell_subset	Non-Spike B
+22	cell_subset	Non-Spike B
+23	cell_subset	Non-Spike B
+24	cell_subset	Non-Spike B
+31	cell_subset	Non-Spike B
+32	cell_subset	Non-Spike B
+33	cell_subset	Non-Spike B
+34	cell_subset	Non-Spike B
+35	cell_subset	Non-Spike B
+36	cell_subset	Non-Spike B
+43	cell_subset	Non-Spike B
+44	cell_subset	Non-Spike B
+45	cell_subset	Non-Spike B
+46	cell_subset	Non-Spike B
+47	cell_subset	Non-Spike B
+48	cell_subset	Non-Spike B
+55	cell_subset	Non-Spike B
+56	cell_subset	Non-Spike B
+57	cell_subset	Non-Spike B
+58	cell_subset	Non-Spike B
+59	cell_subset	Non-Spike B
+60	cell_subset	Non-Spike B
+3	tissue	PBL
+4	tissue	PBL
+5	tissue	PBL
+6	tissue	PBL
+7	tissue	PBL
+8	tissue	PBL
+9	tissue	PBL
+10	tissue	PBL
+11	tissue	PBL
+12	tissue	PBL
+13	tissue	PBL
+14	tissue	PBL
+15	tissue	PBL
+16	tissue	PBL
+17	tissue	PBL
+18	tissue	PBL
+19	tissue	PBL
+20	tissue	PBL
+21	tissue	PBL
+22	tissue	PBL
+23	tissue	PBL
+24	tissue	PBL
+25	tissue	PBL
+26	tissue	PBL
+27	tissue	PBL
+28	tissue	PBL
+29	tissue	PBL
+30	tissue	PBL
+31	tissue	PBL
+32	tissue	PBL
+33	tissue	PBL
+34	tissue	PBL
+35	tissue	PBL
+36	tissue	PBL
+37	tissue	PBL
+38	tissue	PBL
+39	tissue	PBL
+40	tissue	PBL
+41	tissue	PBL
+42	tissue	PBL
+43	tissue	PBL
+44	tissue	PBL
+45	tissue	PBL
+46	tissue	PBL
+47	tissue	PBL
+48	tissue	PBL
+49	tissue	PBL
+50	tissue	PBL
+51	tissue	PBL
+52	tissue	PBL
+53	tissue	PBL
+54	tissue	PBL
+55	tissue	PBL
+56	tissue	PBL
+57	tissue	PBL
+58	tissue	PBL
+59	tissue	PBL
+60	tissue	PBL
+61	tissue	PBL
+62	tissue	PBL
+63	tissue	PBL
+64	tissue	PBL
+65	tissue	PBL
+66	tissue	PBL
+3	Relevant publications	PMID: 33858945
+4	Relevant publications	PMID: 33858945
+5	Relevant publications	PMID: 33858945
+6	Relevant publications	PMID: 33858945
+7	Relevant publications	PMID: 33858945
+8	Relevant publications	PMID: 33858945
+9	Relevant publications	PMID: 33858945
+10	Relevant publications	PMID: 33858945
+11	Relevant publications	PMID: 33858945
+12	Relevant publications	PMID: 33858945
+13	Relevant publications	PMID: 33858945
+14	Relevant publications	PMID: 33858945
+15	Relevant publications	PMID: 33858945
+16	Relevant publications	PMID: 33858945
+17	Relevant publications	PMID: 33858945
+18	Relevant publications	PMID: 33858945
+19	Relevant publications	PMID: 33858945
+20	Relevant publications	PMID: 33858945
+21	Relevant publications	PMID: 33858945
+22	Relevant publications	PMID: 33858945
+23	Relevant publications	PMID: 33858945
+24	Relevant publications	PMID: 33858945
+25	Relevant publications	PMID: 33858945
+26	Relevant publications	PMID: 33858945
+27	Relevant publications	PMID: 33858945
+28	Relevant publications	PMID: 33858945
+29	Relevant publications	PMID: 33858945
+30	Relevant publications	PMID: 33858945
+31	Relevant publications	PMID: 33858945
+32	Relevant publications	PMID: 33858945
+33	Relevant publications	PMID: 33858945
+34	Relevant publications	PMID: 33858945
+35	Relevant publications	PMID: 33858945
+36	Relevant publications	PMID: 33858945
+37	Relevant publications	PMID: 33858945
+38	Relevant publications	PMID: 33858945
+39	Relevant publications	PMID: 33858945
+40	Relevant publications	PMID: 33858945
+41	Relevant publications	PMID: 33858945
+42	Relevant publications	PMID: 33858945
+43	Relevant publications	PMID: 33858945
+44	Relevant publications	PMID: 33858945
+45	Relevant publications	PMID: 33858945
+46	Relevant publications	PMID: 33858945
+47	Relevant publications	PMID: 33858945
+48	Relevant publications	PMID: 33858945
+49	Relevant publications	PMID: 33858945
+50	Relevant publications	PMID: 33858945
+51	Relevant publications	PMID: 33858945
+52	Relevant publications	PMID: 33858945
+53	Relevant publications	PMID: 33858945
+54	Relevant publications	PMID: 33858945
+55	Relevant publications	PMID: 33858945
+56	Relevant publications	PMID: 33858945
+57	Relevant publications	PMID: 33858945
+58	Relevant publications	PMID: 33858945
+59	Relevant publications	PMID: 33858945
+60	Relevant publications	PMID: 33858945
+61	Relevant publications	PMID: 33858945
+62	Relevant publications	PMID: 33858945
+63	Relevant publications	PMID: 33858945
+64	Relevant publications	PMID: 33858945
+65	Relevant publications	PMID: 33858945
+66	Relevant publications	PMID: 33858945
+9	cell_subset	Spike+ Mem B
+10	cell_subset	Spike+ Mem B
+11	cell_subset	Spike+ Mem B
+12	cell_subset	Spike+ Mem B
+13	cell_subset	Spike+ Mem B
+14	cell_subset	Spike+ Mem B
+25	cell_subset	Spike+ Mem B
+26	cell_subset	Spike+ Mem B
+27	cell_subset	Spike+ Mem B
+28	cell_subset	Spike+ Mem B
+29	cell_subset	Spike+ Mem B
+30	cell_subset	Spike+ Mem B
+37	cell_subset	Spike+ Mem B
+38	cell_subset	Spike+ Mem B
+39	cell_subset	Spike+ Mem B
+40	cell_subset	Spike+ Mem B
+41	cell_subset	Spike+ Mem B
+42	cell_subset	Spike+ Mem B
+49	cell_subset	Spike+ Mem B
+50	cell_subset	Spike+ Mem B
+51	cell_subset	Spike+ Mem B
+52	cell_subset	Spike+ Mem B
+53	cell_subset	Spike+ Mem B
+54	cell_subset	Spike+ Mem B
+61	cell_subset	Spike+ Mem B
+62	cell_subset	Spike+ Mem B
+63	cell_subset	Spike+ Mem B
+64	cell_subset	Spike+ Mem B
+65	cell_subset	Spike+ Mem B
+66	cell_subset	Spike+ Mem B
+3	intervention	vaccinated
+4	intervention	vaccinated
+5	intervention	vaccinated
+6	intervention	vaccinated
+7	intervention	vaccinated
+8	intervention	vaccinated
+9	intervention	vaccinated
+10	intervention	vaccinated
+11	intervention	vaccinated
+12	intervention	vaccinated
+13	intervention	vaccinated
+14	intervention	vaccinated
+15	intervention	vaccinated
+16	intervention	vaccinated
+17	intervention	vaccinated
+18	intervention	vaccinated
+19	intervention	vaccinated
+20	intervention	vaccinated
+21	intervention	vaccinated
+22	intervention	vaccinated
+23	intervention	vaccinated
+24	intervention	vaccinated
+25	intervention	vaccinated
+26	intervention	vaccinated
+27	intervention	vaccinated
+28	intervention	vaccinated
+29	intervention	vaccinated
+30	intervention	vaccinated
+31	intervention	vaccinated
+32	intervention	vaccinated
+33	intervention	vaccinated
+34	intervention	vaccinated
+35	intervention	vaccinated
+36	intervention	vaccinated
+37	intervention	vaccinated
+38	intervention	vaccinated
+39	intervention	vaccinated
+40	intervention	vaccinated
+41	intervention	vaccinated
+42	intervention	vaccinated
+43	intervention	vaccinated
+44	intervention	vaccinated
+45	intervention	vaccinated
+46	intervention	vaccinated
+47	intervention	vaccinated
+48	intervention	vaccinated
+49	intervention	vaccinated
+50	intervention	vaccinated
+51	intervention	vaccinated
+52	intervention	vaccinated
+53	intervention	vaccinated
+54	intervention	vaccinated
+55	intervention	vaccinated
+56	intervention	vaccinated
+57	intervention	vaccinated
+58	intervention	vaccinated
+59	intervention	vaccinated
+60	intervention	vaccinated
+61	intervention	vaccinated
+62	intervention	vaccinated
+63	intervention	vaccinated
+64	intervention	vaccinated
+65	intervention	vaccinated
+66	intervention	vaccinated
+3	age_units	years
+4	age_units	years
+5	age_units	years
+6	age_units	years
+7	age_units	years
+8	age_units	years
+9	age_units	years
+10	age_units	years
+11	age_units	years
+12	age_units	years
+13	age_units	years
+14	age_units	years
+15	age_units	years
+16	age_units	years
+17	age_units	years
+18	age_units	years
+19	age_units	years
+20	age_units	years
+21	age_units	years
+22	age_units	years
+23	age_units	years
+24	age_units	years
+25	age_units	years
+26	age_units	years
+27	age_units	years
+28	age_units	years
+29	age_units	years
+30	age_units	years
+31	age_units	years
+32	age_units	years
+33	age_units	years
+34	age_units	years
+35	age_units	years
+36	age_units	years
+37	age_units	years
+38	age_units	years
+39	age_units	years
+40	age_units	years
+41	age_units	years
+42	age_units	years
+43	age_units	years
+44	age_units	years
+45	age_units	years
+46	age_units	years
+47	age_units	years
+48	age_units	years
+49	age_units	years
+50	age_units	years
+51	age_units	years
+52	age_units	years
+53	age_units	years
+54	age_units	years
+55	age_units	years
+56	age_units	years
+57	age_units	years
+58	age_units	years
+59	age_units	years
+60	age_units	years
+61	age_units	years
+62	age_units	years
+63	age_units	years
+64	age_units	years
+65	age_units	years
+66	age_units	years
