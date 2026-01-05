@@ -87,12 +87,14 @@ class sql_conn():
         self.engine = create_engine(connection_mysql)
         print(f"> Established connecntion to the {self.db_name} database.")
 
+    # Importing tabke from the sql server
     def get_table(self,
                   table_name,
                   sql_qry : str = "defualt",
                   save_table:bool = True) -> pd.DataFrame:
         """
-        qry : str -> string of sql input, to be executed on the sql server.
+        table_name:str -> name of the table to be improted from the sql server.
+        sql_qry : str -> string of sql input, to be executed on the sql server.
         save_table : bool -> to save the returened sql table to the raw_folder.
         """
     

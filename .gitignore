@@ -1,2 +1,5 @@
 source/__pycache__
 config.json
+tables_output
+tables_processed
+tables_raw
